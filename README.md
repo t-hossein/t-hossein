@@ -16,9 +16,7 @@ from protein sequence, with gradient-based generation of de novo
 phase-separating peptides, experimentally validated in *E. coli*.
 A Transformer sequence encoder combined with FEGS graph matrices.
 Co-first author, with the Lindner and Pandi groups at INSERM /
-Université Paris Cité. My contributions were problem framing,
-benchmarking against existing predictors, assembly of the independent
-validation sets, the region-boosting proposal, and manuscript drafting.
+Université Paris Cité.
 
 Preprint: [bioRxiv 10.1101/2025.01.27.635039](https://www.biorxiv.org/content/10.1101/2025.01.27.635039v2) ·
 Code: [AMIRMOHAMMAD-OSS/Phaseek](https://github.com/AMIRMOHAMMAD-OSS/Phaseek) ·
@@ -42,7 +40,6 @@ aggregation propensity without disturbing the Ser–His–Asp catalytic
 relay. 37 candidate substitutions scored on Aggrescan3D, FoldX, CamSol,
 DynaMut and SASA exposure, filtered to three designs in the disordered
 C-terminal tail. AlphaFold3, MolProbity, PyMOL/APBS, Clustal Omega.
-Predictions only; nothing expressed or assayed.
 
 **[parp1-myelosuppression](https://github.com/t-hossein/parp1-myelosuppression)**
 Why PARP inhibitors cause bone marrow suppression: high PARP1 dependence
