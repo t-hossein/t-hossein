@@ -17,7 +17,7 @@ from protein sequence, with gradient-based generation of de novo
 phase-separating peptides, experimentally validated in *E. coli*.
 A Transformer sequence encoder combined with FEGS graph matrices.
 Co-first author, with the Lindner and Pandi groups at INSERM /
-Université Paris Cité.
+Sorbonne Université.
 
 Preprint: [bioRxiv 10.1101/2025.01.27.635039](https://www.biorxiv.org/content/10.1101/2025.01.27.635039v2) ·
 Code: [AMIRMOHAMMAD-OSS/Phaseek](https://github.com/AMIRMOHAMMAD-OSS/Phaseek) ·
